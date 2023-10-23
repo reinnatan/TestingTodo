@@ -1,0 +1,6 @@
+mst/qa/test/AndroidTest.class
+mst/qa/drivermaanager/AndroidDriverManager.class
+mst/qa/page/LoginPage.class
+mst/qa/page/HomePage.class
+mst/qa/page/TodoPage.class
+mst/qa/test/BaseTest.class

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T01:09:52 WIB" name="TestNG Suite" finished-at="2023-10-24T01:12:32 WIB" duration-ms="160035">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T01:09:52 WIB" name="TestNG Intentoins Test" finished-at="2023-10-24T01:12:32 WIB" duration-ms="160035">
+      <class name="mst.qa.test.AndroidTest">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:09:52 WIB" name="testSetup" finished-at="2023-10-24T01:09:59 WIB" duration-ms="7362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="LoginLogout()[pri:0, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:09:59 WIB" name="LoginLogout" finished-at="2023-10-24T01:10:05 WIB" duration-ms="6171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginLogout -->
+        <test-method signature="AddToDo()[pri:1, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:10:05 WIB" name="AddToDo" finished-at="2023-10-24T01:10:20 WIB" duration-ms="15073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDo -->
+        <test-method signature="AddToDoSecondary()[pri:2, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:10:20 WIB" name="AddToDoSecondary" finished-at="2023-10-24T01:10:37 WIB" duration-ms="17204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoSecondary -->
+        <test-method signature="AddToDoOther()[pri:3, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:10:37 WIB" name="AddToDoOther" finished-at="2023-10-24T01:11:00 WIB" duration-ms="22967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoOther -->
+        <test-method signature="AddToDoOtherDiffUpload()[pri:5, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:11:00 WIB" name="AddToDoOtherDiffUpload" finished-at="2023-10-24T01:11:20 WIB" duration-ms="20064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoOtherDiffUpload -->
+        <test-method signature="AddToDoOtherTapDetailBefore()[pri:6, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:11:20 WIB" name="AddToDoOtherTapDetailBefore" finished-at="2023-10-24T01:11:54 WIB" duration-ms="33412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDoOtherTapDetailBefore -->
+        <test-method signature="ValidateAddToDoOtherTapDetailBefore()[pri:7, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:11:54 WIB" name="ValidateAddToDoOtherTapDetailBefore" finished-at="2023-10-24T01:12:31 WIB" duration-ms="37134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateAddToDoOtherTapDetailBefore -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mst.qa.test.AndroidTest@3a079870]" started-at="2023-10-24T01:12:31 WIB" name="tearDown" finished-at="2023-10-24T01:12:32 WIB" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mst.qa.test.AndroidTest -->
+    </test> <!-- TestNG Intentoins Test -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
